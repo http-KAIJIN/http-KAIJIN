@@ -14,12 +14,12 @@ I turn business problems into working software: production multi-tenant SaaS, sa
 |---|---|---|
 | 💬 | **SaaS / Full-Stack** | [WADES](https://github.com/http-KAIJIN/wades-showcase) — multi-tenant WhatsApp-first CRM (FastAPI · React · PostgreSQL · Redis · Celery) |
 | 🤖 | **AI Systems** | [ATOS](https://github.com/http-KAIJIN/atos-showcase) — safety-first AI trading OS where deterministic code decides and AI advises (multi-agent) |
-| ⚙️ | **Automation** | AI automation suite — lead qualification, AI voice agents, email & calendar (n8n) |
+| ⚙️ | **Automation** | [AI Automation Suite](https://github.com/http-KAIJIN/n8n-automation-suite) — lead qualification, AI voice agents, email & calendar (n8n) |
 | 🧠 | **Machine Learning** | [Medical Image Classification](https://github.com/http-KAIJIN/medical-image-classification) — pneumonia detection, 88.8% acc / 0.96 AUC, Grad-CAM explainability |
-| 📊 | **Data / BI** | Crypto Decision BI — ETL → MySQL warehouse → Power BI dashboards (Talend) |
-| 🏢 | **Custom Business Software** | Immo CRM — custom CRM for real-estate agencies (FastAPI) |
+| 📊 | **Data / BI** | [Crypto Decision BI](https://github.com/http-KAIJIN/crypto-decision-bi) — ETL → MySQL warehouse → Power BI dashboards (Talend) |
+| 🏢 | **Custom Business Software** | [Immo CRM](https://github.com/http-KAIJIN/immo-crm) — custom CRM for real-estate agencies (FastAPI) |
 | 📈 | **FinTech** | [SOKA](https://github.com/http-KAIJIN/soka-finance-dashboard) — financial analysis & backtesting dashboard (Streamlit) |
-| 👁️ | **Computer Vision** | AR PaperStage — real-time augmented-reality hand-effects engine (OpenCV · MediaPipe) |
+| 👁️ | **Computer Vision** | [AR PaperStage](https://github.com/http-KAIJIN/ar-paperstage) — real-time augmented-reality hand-effects engine (OpenCV · MediaPipe) |
 
 ---
 
